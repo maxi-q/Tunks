@@ -1,0 +1,13 @@
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Release\netcoreapp3.1\Танки.AssemblyInfoInputs.cache
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Release\netcoreapp3.1\Танки.AssemblyInfo.cs
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Release\netcoreapp3.1\Танки.csproj.CoreCompileInputs.cache
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Release\netcoreapp3.1\Танки.genruntimeconfig.cache
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Release\netcoreapp3.1\Танки.csproj.AssemblyReference.cache
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Release\netcoreapp3.1\Tunks.exe
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Release\netcoreapp3.1\Tunks.deps.json
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Release\netcoreapp3.1\Tunks.runtimeconfig.json
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Release\netcoreapp3.1\Tunks.runtimeconfig.dev.json
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Release\netcoreapp3.1\Tunks.dll
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Release\netcoreapp3.1\Tunks.pdb
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Release\netcoreapp3.1\Tunks.dll
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Release\netcoreapp3.1\Tunks.pdb

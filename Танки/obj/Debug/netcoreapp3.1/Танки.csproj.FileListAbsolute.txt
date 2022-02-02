@@ -1,0 +1,13 @@
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Debug\netcoreapp3.1\Танки.csproj.AssemblyReference.cache
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Debug\netcoreapp3.1\Танки.AssemblyInfoInputs.cache
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Debug\netcoreapp3.1\Танки.AssemblyInfo.cs
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Debug\netcoreapp3.1\Танки.csproj.CoreCompileInputs.cache
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Debug\netcoreapp3.1\Танки.exe
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Debug\netcoreapp3.1\Танки.deps.json
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Debug\netcoreapp3.1\Танки.runtimeconfig.json
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Debug\netcoreapp3.1\Танки.runtimeconfig.dev.json
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Debug\netcoreapp3.1\Танки.dll
+C:\Users\Intel Core\source\repos\Танки\Танки\bin\Debug\netcoreapp3.1\Танки.pdb
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Debug\netcoreapp3.1\Танки.dll
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Debug\netcoreapp3.1\Танки.pdb
+C:\Users\Intel Core\source\repos\Танки\Танки\obj\Debug\netcoreapp3.1\Танки.genruntimeconfig.cache

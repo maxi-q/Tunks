@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon></ApplicationIcon>
+    <StartupObject>Танки.Program</StartupObject>
+    <Win32Resource>C:\Users\Intel Core\source\repos\Танки\Танки\ResTempl3.res</Win32Resource>
+    <AssemblyName>Tunks</AssemblyName>
+    <RootNamespace>Tunks</RootNamespace>
+  </PropertyGroup>
+
+</Project>
